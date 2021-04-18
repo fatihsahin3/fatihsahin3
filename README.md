@@ -5,6 +5,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsahin3&layout=compact)
 
+<!--
 - 🔭 I’m currently working on my RentACar project
 - 🌱 I’m currently learning C#, Angular
 - 👯 I’m looking to collaborate on anything
@@ -13,3 +14,4 @@
 - 📫 How to reach me: fatihsahin3@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
