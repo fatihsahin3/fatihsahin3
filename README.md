@@ -1,7 +1,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/fatihsahin3?style=social)](https://github.com/fatihsahin3?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/CerenBdk?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/CerenBdk/StrapDown.js/stargazers/)
+![GitHub stars](https://img.shields.io/github/stars/fatihsahin3?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=fatihsahin3.visitor-badge)](https://GitHub.com/fatihsahin3/StrapDown.js/stargazers/)
 
 ### Hi there 👋
 I'm Fatih. Welcome to my Github!
