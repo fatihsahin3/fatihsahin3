@@ -1,5 +1,5 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/CerenBdk?style=social)](https://github.com/CerenBdk?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/fatihsahin3?style=social)](https://github.com/fatihsahin3?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/CerenBdk?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/CerenBdk/StrapDown.js/stargazers/)
 
