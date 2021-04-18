@@ -13,6 +13,8 @@ Contact with me via these platforms!
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsahin3&layout=compact&theme=light)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fatihsahin3&theme=highcontrast&show_icons=true&count_private=true&theme=default)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsahin3&layout=compact)
 
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
@@ -23,7 +25,3 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" />
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=fatihsahin3&theme=highcontrast&show_icons=true&count_private=true&theme=default)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsahin3&layout=compact)
